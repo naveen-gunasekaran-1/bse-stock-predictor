@@ -22,7 +22,3 @@ A machine learning app to predict closing prices of BSE-listed companies using L
 
 ## 🗂 Dataset
 Make sure `BSE_30.csv` is in the same directory as `model.py`.
-
----
-
-Made with ❤️ by Naveen Gunasekaran
