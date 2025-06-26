@@ -12,7 +12,7 @@ A machine learning app to predict closing prices of BSE-listed companies using L
 
 ## 🧠 Models
 - Linear Regression
-- Ready for future integration with advanced ML models ( Linear Regression, Ridge Regression, Lasso Regression, Random Forest, Gradient Boosting)
+- Ready for future integration with advanced ML models (Ridge Regression, Lasso Regression, Random Forest, Gradient Boosting)
 
 ## 📦 Tech Stack
 - Streamlit
