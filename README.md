@@ -2,7 +2,7 @@
 
 A machine learning app to predict closing prices of BSE-listed companies using Linear Regression and real-time data visualization.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bse-stock-predictor--naveen-gunasekaran-1.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bse-stock-predictor-gzp4dlzyhiqedhpsr9x6fx.streamlit.app/)
 
 ## 🔧 Features
 - Choose from multiple stock symbols
